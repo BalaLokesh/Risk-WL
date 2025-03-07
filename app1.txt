@@ -1,0 +1,4 @@
+"AadClientId": "7d21b734-49ef-43e7-a637-1fda25031e40",
+"AadSecret": "g1h8Q~jbX.zB0~IUNAP-icqrqkIAl71YtrZE3dp_",
+"AadTenantDomain": "ericsson.onmicrosoft.com",
+"AadTenantId": "92e84ceb-fbfd-47ab-be52-080c6b87953f"
